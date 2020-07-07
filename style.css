@@ -1,0 +1,146 @@
+
+
+
+
+.container
+{
+   margin-bottom: 80px;
+}
+
+/* menu bar*/
+
+ 
+
+
+
+
+
+/* cerosoul*/
+
+
+
+.buttton-style
+{
+    background-image: linear-gradient(40deg, DarkSlateGray,black);
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+    margin-top: 20px;
+    color: white;
+    cursor: pointer;
+}
+.cerousel-bg
+{
+    background-color: Lavender;
+}
+
+
+.carousel-item
+{
+    padding:80px 50px ;
+    text-align: justify;
+}
+
+
+.carousel-indicators .active
+{
+    background-image: linear-gradient(150deg, goldenrod,gold);
+    width: 50px;
+}
+.carousel-indicators li
+{
+    background-color: grey;
+    width: 20px;
+    height: 10px;
+    border-radius: 20px;
+    border: none;
+
+}
+
+
+/* product*/
+
+
+.see-all-digain
+{
+    color:#FF9D00;
+    font-weight: bold;
+    cursor: pointer;
+     margin-top: 10px;
+}
+
+.card
+{
+    border: none;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 30px;
+    padding: 20px 20px;
+}
+.card-footer
+{
+    border-top: none;
+    background-color: white;
+}
+
+
+
+
+/* Categories*/  
+
+.Categories-style
+{
+    text-align: center;
+}
+.Categories-style h3
+{
+    
+    font-weight: 700;
+
+}
+.span-digain
+{
+    display: inline-block;
+    margin-top: 5px;
+    width: 90px;
+    height: 2px;
+    border-bottom: 1px solid ,gold;
+    background-image: linear-gradient(150deg, goldenrod,gold);
+    padding: 3px;
+    border-radius: 10px;
+    
+}
+
+
+.Categories-images-digain img
+{
+   
+}
+
+.cat-1 , .cat-2, .cat-3
+{
+ 
+  text-align: center;
+  box-shadow: 7px 7px 30px lightgrey;
+  padding: 40px 0px;
+  border-radius: 20px;
+}
+.cat-1
+{
+    
+}
+.cat-2
+{
+    margin-bottom: 40px;
+}
+
+.cat-4
+{
+   
+    padding: 15px 15px ;
+
+}
+.cat-4 img
+{
+    width: 100%;
+}
